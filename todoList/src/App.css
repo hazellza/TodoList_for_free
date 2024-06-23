@@ -1,0 +1,78 @@
+html body {
+  background-image: linear-gradient(
+    225deg,
+    rgb(3, 29, 54) 0%,
+    rgba(179, 138, 255, 1) 100%
+  );
+}
+.container-todo {
+    width: 340px;
+}
+.wrap-todo {
+    width: auto;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.input-todo {
+    outline: none;
+    padding: 10px;
+    width: 280px;
+    height: 50px;
+    color: rgb(100, 100, 100);
+    background-color: white;
+    font-size: 20px;
+}
+
+.add-todo {
+    width: 60px;
+    height: 50px;
+    border-left: 1px solid rgb(185, 185, 185);
+    color: rgb(42, 86, 233);
+}
+
+.add-todo:hover {
+    background-color: rgb(238, 238, 238);
+}
+
+.list-todo {
+    background-color: white;
+    height: 300px;
+    width: 340px;
+    overflow-y: auto;
+}
+
+.but-clear {
+    background-color: #fff;
+    padding: 2px;
+    width: 60px;
+    height: 30px;
+    color: #eb5c60;
+}
+
+.wrap-topic {
+    border-bottom: 1px solid rgb(197, 197, 255);
+}
+
+.todo {
+    color: rgb(100, 100, 100);
+}
+
+.but-delete {
+    width: 15px;
+    height: 17px;
+    background-color: #eb5c60;
+    color: #fff;
+}
+.but-delete:hover {
+    background-color: #f5686d;
+    color: #fff;
+}
+
+
+.checkbox {
+    width: 13px;
+    height: 14px;
+    margin-bottom: -3px;
+    cursor: pointer;
+}
