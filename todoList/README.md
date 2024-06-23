@@ -1,7 +1,6 @@
 # How to Create Vite.
 click https://vitejs.dev/guide/ or
-
-terminal 
+Terminal
 npm create vite@latest my-project -- --template react
 cd my-project
 
@@ -9,7 +8,7 @@ cd my-project
 click https://tailwindcss.com/docs/guides/vite 
 
 # After you git clone 
-terminal 
+Terminal 
 npm install  ---- ( for install Frameworks / Libraries)
 
 Thank you <3
