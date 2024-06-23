@@ -7,7 +7,6 @@ cd my-project
 click https://tailwindcss.com/docs/guides/vite 
 
 # After you git clone 
-Terminal 
 npm install  ---- ( for install Frameworks / Libraries)
 
 Thank you <3
